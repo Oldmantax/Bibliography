@@ -122,3 +122,25 @@
   journal={arXiv preprint arXiv:1602.04713},
   year={2016}
 }
+
+@article{koh2006functional,
+  title={A functional approach for studying technological progress: Application to information technology},
+  author={Koh, Heebyung and Magee, Christopher L},
+  journal={Technological Forecasting and Social Change},
+  volume={73},
+  number={9},
+  pages={1061--1083},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{koh2008functional,
+  title={A functional approach for studying technological progress: Extension to energy technology},
+  author={Koh, Heebyung and Magee, Christopher L},
+  journal={Technological Forecasting and Social Change},
+  volume={75},
+  number={6},
+  pages={735--758},
+  year={2008},
+  publisher={Elsevier}
+}
