@@ -56,6 +56,7 @@
   year={2009},
   publisher={American Association for the Advancement of Science}
 }
+
 @article{dimasi2003price,
   title={The price of innovation: new estimates of drug development costs},
   author={DiMasi, Joseph A and Hansen, Ronald W and Grabowski, Henry G},
@@ -66,6 +67,7 @@
   year={2003},
   publisher={Elsevier}
 }
+
 @incollection{arrow1962economic,
   title={Economic welfare and the allocation of resources for invention},
   author={Arrow, Kenneth},
@@ -74,6 +76,7 @@
   year={1962},
   publisher={Princeton University Press}
 }
+
 @article{sahal1979theory,
   title={A theory of progress functions},
   author={Sahal, Devendra},
@@ -84,6 +87,7 @@
   year={1979},
   publisher={Taylor \& Francis Group}
 }
+
 @article{nagy2013statistical,
   title={Statistical basis for predicting technological progress},
   author={Nagy, B{\'e}la and Farmer, J Doyne and Bui, Quan M and Trancik, Jessika E},
@@ -94,6 +98,7 @@
   year={2013},
   publisher={Public Library of Science}
 }
+
 @article{thompson2012relationship,
   title={The relationship between unit cost and cumulative quantity and the evidence for organizational learning-by-doing},
   author={Thompson, Peter},
@@ -143,4 +148,11 @@
   pages={735--758},
   year={2008},
   publisher={Elsevier}
+}
+
+@article{magee2004complex,
+  title={Complex system classification},
+  author={Magee, Christopher and de Weck, Olivier},
+  year={2004},
+  publisher={International Council On Systems Engineering (INCOSE)}
 }
