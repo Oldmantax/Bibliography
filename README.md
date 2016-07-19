@@ -156,3 +156,45 @@
   year={2004},
   publisher={International Council On Systems Engineering (INCOSE)}
 }
+
+@article{dosi1982technological,
+  title={Technological paradigms and technological trajectories: a suggested interpretation of the determinants and directions of technical change},
+  author={Dosi, Giovanni},
+  journal={Research policy},
+  volume={11},
+  number={3},
+  pages={147--162},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{tuomi2002lives,
+  title={The lives and death of Moore's Law},
+  author={Tuomi, Ilkka},
+  journal={First Monday},
+  volume={7},
+  number={11},
+  year={2002}
+}
+
+@article{ayres1994toward,
+  title={Toward a non-linear dynamics of technological progress},
+  author={Ayres, Robert U},
+  journal={Journal of Economic Behavior \& Organization},
+  volume={24},
+  number={1},
+  pages={35--69},
+  year={1994},
+  publisher={Elsevier}
+}
+
+@article{schilling2009technology,
+  title={Technology S-curves in renewable energy alternatives: Analysis and implications for industry and government},
+  author={Schilling, Melissa A and Esmundo, Melissa},
+  journal={Energy Policy},
+  volume={37},
+  number={5},
+  pages={1767--1781},
+  year={2009},
+  publisher={Elsevier}
+}
