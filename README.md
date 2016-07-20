@@ -204,3 +204,14 @@
   howpublished = {\url{https://answers.yahoo.com/question/index?qid=20080329092143AA32k0M}},
   note = {Accessed: 20-07-2016}
 }
+
+@article{arthur2007structure,
+  title={The structure of invention},
+  author={Arthur, W Brian},
+  journal={Research policy},
+  volume={36},
+  number={2},
+  pages={274--287},
+  year={2007},
+  publisher={Elsevier}
+}
