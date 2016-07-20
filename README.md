@@ -198,3 +198,9 @@
   year={2009},
   publisher={Elsevier}
 }
+
+@misc{horses,
+  title = {{Yahoo Answers} What's the maximum speed of a horse drawn coach or carraige[sic]?},
+  howpublished = {\url{https://answers.yahoo.com/question/index?qid=20080329092143AA32k0M}},
+  note = {Accessed: 20-07-2016}
+}
