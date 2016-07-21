@@ -215,3 +215,14 @@
   year={2007},
   publisher={Elsevier}
 }
+
+@article{schilling2009technology,
+  title={Technology S-curves in renewable energy alternatives: Analysis and implications for industry and government},
+  author={Schilling, Melissa A and Esmundo, Melissa},
+  journal={Energy Policy},
+  volume={37},
+  number={5},
+  pages={1767--1781},
+  year={2009},
+  publisher={Elsevier}
+}
