@@ -226,3 +226,25 @@
   year={2009},
   publisher={Elsevier}
 }
+
+@article{van1985notion,
+  title={The notion of technological limits: an aid to technological forecasting},
+  author={Van Wyk, Rias J},
+  journal={Futures},
+  volume={17},
+  number={3},
+  pages={214--223},
+  year={1985},
+  publisher={Elsevier}
+}
+
+@article{ayres1988barriers,
+  title={Barriers and breakthroughs: an “expanding frontiers” model of the technology-industry life cycle},
+  author={Ayres, Robert U},
+  journal={Technovation},
+  volume={7},
+  number={2},
+  pages={87--115},
+  year={1988},
+  publisher={Elsevier}
+}
