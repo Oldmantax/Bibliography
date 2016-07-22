@@ -248,3 +248,9 @@
   year={1988},
   publisher={Elsevier}
 }
+
+@misc{patents,
+  title = {{United States Patent and Trademark Office} Classes arranged in alphabetical order},
+  howpublished = {\url{http://www.uspto.gov/sites/default/files/patents/resources/classification/caa.pdf}},
+  note = {Accessed: 22-07-2016}
+}
